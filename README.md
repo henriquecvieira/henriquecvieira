@@ -30,7 +30,7 @@ e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=5511988468374/" alt="Whatsapp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/henrique-vieira-b65aaa122/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/henriquevieira-b65aaa122/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-vieira-b65aaa122"/></a>
 </p>
 
