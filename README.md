@@ -13,7 +13,7 @@
 
 <p align="center">
   Sou </strong> engenheiro civil e programador</strong>.<br />
-Estou aperfeiçoando minhas habilidades em <strong>JavaScript</strong>
+Estou aperfeiçoando minhas habilidades em <strong>JavaScript NodeJS e C#</strong>
 e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos - RocketSeat, Curso em Vídeo, Udemy, exercism.io ...</strong>.
 </p>
 
