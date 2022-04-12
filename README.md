@@ -47,7 +47,6 @@ e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" height="25"/>
 
 
